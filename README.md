@@ -1,3 +1,12 @@
+# NOTE
+Because the game requires ChatGPT Token and Google TTS, the game no longer works anymore and is only for record.
+## Brief Description
+- The game is developed with [@unpro-grammer](https://github.com/unpro-grammer)  and [@iwah144](https://github.com/iwah144).
+Illustrations by [@unpro-grammer](https://github.com/unpro-grammer)  
+- The game is designed under requirements of the client PI Masters (simulated clients), in order to train crime investigators with the ability to prompt suspects and interacting complex scenes.  
+- The game uses ChatGPT API tokens to present a live conversation with AI suspects, mimicing personalities and can present with different speech each try.
+
+
 # Sample JavaFX application using Proxy API
 
 ## To setup the API to access Chat Completions and TTS
