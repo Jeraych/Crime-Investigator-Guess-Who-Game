@@ -6,6 +6,10 @@ Illustrations by [@unpro-grammer](https://github.com/unpro-grammer)
 - The game is designed under requirements of the client PI Masters (simulated clients), in order to train crime investigators with the ability to prompt suspects and interacting complex scenes.  
 - The game uses ChatGPT API tokens to present a live conversation with AI suspects, mimicing personalities and can present with different speech each try.
 
+## Demo
+Demo video by [@unpro-grammer](https://github.com/unpro-grammer), link to [repo](https://github.com/unpro-grammer/Guess-Who)  
+
+[Demo Video](https://github.com/user-attachments/assets/60295865-c310-434a-9f53-29d5ea09e149)
 
 # Sample JavaFX application using Proxy API
 
